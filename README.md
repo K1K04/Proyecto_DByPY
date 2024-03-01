@@ -1,5 +1,4 @@
 # Proyecto_DByPY
-Proyecto de Base de dato y python
 **Listar información:**
 Mostrar la lista de todos los jugadores y el total de clubes a los que están asociados.
 Contar cuántos jugadores hay en cada club.
